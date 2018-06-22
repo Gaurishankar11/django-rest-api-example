@@ -1,0 +1,4 @@
+*.pyc
+media
+*.log
+settings_local.py
